@@ -1,4 +1,1 @@
-<p>👋 Greetings, I'm @KaiTiWu, a Data Scientist, ML Engineer and GIS specialist with business skills in fundraising. <br>
-📚 I am currently pursuing my PhD in Geography 🧬.<br>
-✨ As a data professional, I'm open to data science project opportunities.<br>
-📫 You can reach out to me for research collaboration or business inquiries at hello@kaitiwu.de.</p>
+<p>👋 Hi, I'm @KaiTiWu — Data Scientist, ML Engineer, and GIS Specialist with business expertise in fundraising and project development. <br> 📚 I'm currently pursuing my PhD in Geography 🧬, exploring the intersection of data, wellbeing, and regional development. <br> 🌎 At the European Citizen Science Association (ECSA), I support open-source community building and develop tools that empower citizen science and digital sovereignty. <br> ✨ I'm open to data science projects, research collaborations, and initiatives that empower communities through technology. <br> 📫 Reach out to me at hello@kaitiwu.de for collaboration or business inquiries!</p>
